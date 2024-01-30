@@ -1,5 +1,11 @@
 ### Hi there 👋
 
++Oiii eu sou o Ranielli Soares, criadora de conteúdo de programação e tecnologia!
+Pessoal que veio atrás do Github Stats: a API provavelmente saiu do ar nesse período, mas você pode adicionar a sua própria, seguindo esse tutorial
+
+
+Rafa-Js Rafa-Ts Rafa-React Rafa-HTML Rafa-CSS Rafa-Python Rafa-Csharp
+     
 <!--
 **RanielliSoares/RanielliSoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
