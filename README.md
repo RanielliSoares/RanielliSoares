@@ -2,9 +2,14 @@
 # Olá Mundo!! 👋
 
 ---
-Olá Sou Ranielli Soares, estudante de Ciência da computação!
-- 🔭 Hoje trabalho com Suport End User
-- 🌱 Estudando JavaScript
+
+Meu nome é Ranielli Soares e sou estudante de Ciência da Computação. 🎓
+
+- 💻 Atualmente, trabalho com suporte ao usuário final, onde adquiri habilidades valiosas em resolução de problemas e comunicação. Estou em busca da minha primeira oportunidade como programador. 
+
+- 🚀 Tenho conhecimento em React Native e desenvolvimento front-end, e estou sempre buscando aprender e crescer na minha carreira de desenvolvedor. 
+
+Estou aberto a oportunidades e colaborações em projetos que me permitam crescer profissionalmente. Sinta-se à vontade para entrar em contato!
 
 * ### Redes Sociais:
 <div> 
