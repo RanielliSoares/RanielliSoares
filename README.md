@@ -1,4 +1,6 @@
-# Olá eu sou o Ranielli Soares! 👋
+
+# Olá Mundo!! 👋
+
 ---
 Olá Sou Ranielli Soares, estudante de Ciência da computação!
 - 🔭 Hoje trabalho com Suport End User
@@ -14,7 +16,7 @@ Olá Sou Ranielli Soares, estudante de Ciência da computação!
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RanielliSoares&show_icons=true&theme=tokyonight)](https://github.com/RanielliSoares)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RanielliSoares&layout=donut)](https://github.com/RanielliSoares)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RanielliSoares&layout=donut&theme=tokyonight)](https://github.com/RanielliSoares)
 
 ---
 ## Programming Languages:
