@@ -27,4 +27,4 @@ Olá Sou Ranielli Soares, estudante de Ciência da computação!
 </div>
 
  
-
+<img src="/assets/gif/gif.gif">
