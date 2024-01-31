@@ -26,5 +26,7 @@ Olá Sou Ranielli Soares, estudante de Ciência da computação!
   <img align="center" alt="Ranielli-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
- 
-<img src="/assets/gif/gif.gif">
+#
+ <div align="center">
+<img src="/assets/gif/Gif.gif" width=600 >
+ </div>
