@@ -3,11 +3,13 @@
 
 ---
 
-Meu nome é Ranielli Soares e sou estudante de Ciência da Computação. 🎓
+Meu nome é Ranielli Soares e sou Analista de Automação WCS estudante de Ciência da Computação. 🎓
 
-- 💻 Atualmente, trabalho com suporte ao usuário final, onde adquiri habilidades valiosas em resolução de problemas e comunicação. Estou em busca da minha primeira oportunidade como programador. 
+💻 Atualmente, trabalho com desenvolvimento e manutenção de códigos Oracle SQL e softwares em C#. Tenho experiência em front-end com React e Python, e estou expandindo meus conhecimentos em desenvolvimento Android com Kotlin e back-end com C#.
 
-- 🚀 Tenho conhecimento em React Native e desenvolvimento front-end, e estou sempre buscando aprender e crescer na minha carreira de desenvolvedor. 
+🚀 Minha trajetória profissional inclui suporte ao usuário final, onde adquiri habilidades valiosas em resolução de problemas e comunicação. Estou sempre em busca de novas oportunidades para crescer e aprender na minha carreira de desenvolvedor.
+
+📚 Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento Android e back-end, buscando sempre as melhores práticas e inovações tecnológicas.
 
 Estou aberto a oportunidades e colaborações em projetos que me permitam crescer profissionalmente. Sinta-se à vontade para entrar em contato!
 
