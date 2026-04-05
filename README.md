@@ -3,15 +3,16 @@
 
 ---
 
-Meu nome é Ranielli Soares e sou Analista de Automação WCS estudante de Ciência da Computação. 🎓
+Meu nome é **Ranielli Soares** e sou **Desenvolvedor Full Stack** por conta própria, estudante de Ciência da Computação. 🎓
 
-💻 Atualmente, trabalho com desenvolvimento e manutenção de códigos Oracle SQL e softwares em C#. Tenho experiência em front-end com React e Python, e estou expandindo meus conhecimentos em desenvolvimento Android com Kotlin e back-end com C#.
+💻 Atualmente, trabalho desenvolvendo sites, aplicativos mobile em **React Native**, sistemas completos e gerenciando bancos de dados como **PostgreSQL** e **MySQL**.
 
-🚀 Minha trajetória profissional inclui suporte ao usuário final, onde adquiri habilidades valiosas em resolução de problemas e comunicação. Estou sempre em busca de novas oportunidades para crescer e aprender na minha carreira de desenvolvedor.
+🚀 Minha trajetória profissional já passou pelo suporte ao usuário final e análise de automação WCS, onde adquiri habilidades valiosas em resolução de problemas e comunicação. Hoje, estou focado 100% no desenvolvimento de software, criando soluções do zero para web e mobile.
 
-📚 Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento Android e back-end, buscando sempre as melhores práticas e inovações tecnológicas.
+📚 Estou sempre aprimorando minhas habilidades em **React Native**, **Node.js**, **C#**, **Kotlin** (Android) e boas práticas de arquitetura de software.
 
-Estou aberto a oportunidades e colaborações em projetos que me permitam crescer profissionalmente. Sinta-se à vontade para entrar em contato!
+✨ Estou aberto a novos projetos, parcerias e oportunidades que me permitam crescer como desenvolvedor.  
+Sinta-se à vontade para entrar em contato!
 
 * ### Redes Sociais:
 <div> 
@@ -42,3 +43,4 @@ Estou aberto a oportunidades e colaborações em projetos que me permitam cresce
  <div align="center">
 <img src="/assets/gif/Gif.gif" width=600 >
  </div>
+
